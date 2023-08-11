@@ -5,6 +5,14 @@ print(True is False) # False
 print(True is True)  #  True
 print(True is 'True') # False
 
+list1 = []
+list2 = []
+
+
+print(list1 is list2) # o/p is false bcz list1 and list2 are at different memory locations.
+print(id(list2))
+print(id(list1))
+
 # 2. in KeyWord
 # The in keyword is used to check if a value is present in a sequence (list, range, string etc.).
 
