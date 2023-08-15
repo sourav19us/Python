@@ -46,7 +46,7 @@ print(c)
 #  in this all  ex True = 1 and Fales = 0 
 x = (1 == True) # 1 == 1 o/p is True
 y = (4598 == False) # 4598 == 1 o/p is True
-z = (48 == True) # 48== 1 o/p is True
+z = (48 == True) # 48== 1 o/p is Fales
 h  = True + 12  # 1 + 12 o/p is 13
 f  = False + 12 # 0 + 12 o/p is 12
 print(x) 
